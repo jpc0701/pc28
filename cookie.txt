@@ -1,0 +1,15 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+.ttz.com	TRUE	/	FALSE		UserId	74202007
+.ttz.com	TRUE	/	FALSE		UserIdKey	8a4dd7c851ff1fc3bb6c52af0204e863
+.xiyou28.com	TRUE	/	FALSE	1535513758	__cfduid	d6db3e2004c95049c4aa45b74295ce9ff1503977758
+www.ji7.com	FALSE	/	FALSE		SID	idi5es2gvnhm6cli1dag8lm9u6
+www.ji7.com	FALSE	/	FALSE	1531876318	clientid	e6e5537e4ccd58869217db3560f5f582
+www.ji7.com	FALSE	/api	FALSE	1531876308	clientid	5ce1b4b5a1bdac0ceb83a2bbc9d7767b
+www.ji7.com	FALSE	/member	FALSE	1531876308	clientid	cee25f8aaa54b130040a7c57140eaaf1
+www.ttz.com	FALSE	/	FALSE		PHPSESSID	sd7uq3md835r2dhp95gkrl5ka0
+www.xiyou28.com	FALSE	/	FALSE		PHPSESSID	0ucfanfumfo1lu7u0dmis7ker2
+www.xiyou28.com	FALSE	/	FALSE		_csrf	49c07a08387b95de9bc98ee950e236173660392a848b0b6ae8d98b5050b6388ea%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22nt5y-hHLRj-ezEeH-hiuwYrGAB9zYfha%22%3B%7D
+www.xiyou28.com	FALSE	/	FALSE	1505174400	_identity	e3c3f933c2af07ff3cd2a54e2d27cf2d1be398e2d59b47f0ca154bed047f42b3a%3A2%3A%7Bi%3A0%3Bs%3A9%3A%22_identity%22%3Bi%3A1%3Bs%3A50%3A%22%5B704474%2C%22tyOtn0JKvCpiEaNHoQIwxbHpOpjxIi6V%22%2C604800%5D%22%3B%7D

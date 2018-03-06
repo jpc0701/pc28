@@ -1,0 +1,1 @@
+python C:\Users\Administrator\Desktop\ºÓÂí2.1\work.py
